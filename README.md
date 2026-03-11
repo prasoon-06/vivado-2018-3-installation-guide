@@ -66,7 +66,8 @@ On the **"Vivado HL WebPACK"** customization screen, recommended selections for 
 
 **Devices:**
 - 7 Series — covers Artix-7, Spartan-7 (Basys3, Nexys4 boards commonly used in colleges)
-- SoCs, UltraScale, UltraScale+ — uncheck if not needed to save disk space
+- SoCs - (important remember to check this) 
+- UltraScale, UltraScale+ — uncheck if not needed to save disk space
 
 ## Step 6: Select Install Directory
 
